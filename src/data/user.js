@@ -96,7 +96,7 @@ const INFO = {
 			description:
 				"It is the gps security and tracker app which was create in flutter and using the node js for backend and use google map api for tracking the location and use the firebase for push notification",
 			linkText: "View Project",
-			link: "https://play.google.com/store/apps/details?id=com.support2heal.app&hl=en_IN",
+			link: "https://play.google.com/store/apps/details?id=com.livepin.publicuser&hl=en_IN",
 			logo: "https://play-lh.googleusercontent.com/5pPv_-awbI8f8BgisXYXoE7it9wt18mSZlid6lxJM7uexnhuSkxLctLRlLi9mzWthh4=w480-h960-rw",
 		},
 	],
