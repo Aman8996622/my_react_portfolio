@@ -34,14 +34,14 @@ const INFO = {
 	},
 
 	projects: [
-		{
-			title: "Risk Assessor Pro",
-			description:
-				"Developed application for both platform andorid and ios  intgrating the rest api and use the sqlite as local datebase for storing the data",
-			logo: "https://play-lh.googleusercontent.com/TzPBSHBMIS8fEBIVI4pwNreXOXTMVu3Q8HD46PrbueKA1H_3O9K-kZOm85EJtF327nzB=w480-h960-rw",
-			linkText: "View Project",
-			link: "https://play.google.com/store/apps/details?id=com.ds.riskassesor&pcampaignid=web_share",
-		},
+		// {
+		// 	title: "Risk Assessor Pro",
+		// 	description:
+		// 		"Developed application for both platform andorid and ios  intgrating the rest api and use the sqlite as local datebase for storing the data",
+		// 	logo: "https://play-lh.googleusercontent.com/TzPBSHBMIS8fEBIVI4pwNreXOXTMVu3Q8HD46PrbueKA1H_3O9K-kZOm85EJtF327nzB=w480-h960-rw",
+		// 	linkText: "View Project",
+		// 	link: "https://play.google.com/store/apps/details?id=com.ds.riskassesor&pcampaignid=web_share",
+		// },
 		{
 			title: "Fabpiks: Samples & Deals",
 			description:
