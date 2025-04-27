@@ -10,9 +10,9 @@ const INFO = {
 		twitter: "https://twitter.com/",
 		github: "https://github.com/Aman8996622",
 		linkedin: "https://www.linkedin.com/in/aman-sharma-72b0961a8/",
-		instagram: "https://instagram.com/",
+	
 		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+	
 	},
 
 	homepage: {
@@ -61,7 +61,7 @@ const INFO = {
 		{
 			title: "Oman Digital Tutorial",
 			description:
-				"It is educational app. integrate the graph ql api. use the one signal for push notification. Implement Web RTC connection for chat. use blocs for state management in flutter ",
+				"It is educational app. integrate the rest apis. use the one signal for push notification. Implement Web RTC connection for chat. in React Native",
 			logo: "https://play-lh.googleusercontent.com/5rVoYLyCwcIrucUDSNCiYSXu6K9RWuQDKK5qkxfGRW6CRRV781gh7MbK1pLOU0gP-3o=w480-h960-rw",
 			linkText: "View Project",
 			link: "https://play.google.com/store/apps/details?id=com.omtutfree&hl=en_IN",
